@@ -15,6 +15,6 @@ Section 3 — Results table with EL, AP, EP, Rate on Line for both options.
 Section 4 — Regional breakdown with the bar chart showing Florida at 69.3%.
 
 
-•  Using the Year Loss Table, I have calculated the expected loss, AP and EP for the following two catastrophe excess of loss layers:
-/n o  Option 1 (O1): $100m xs $140m, single shot, United States windstorm, inception June 1st to year end
-/n o  Option 2 (O2): $70m xs $95m, single shot, Florida windstorm only, inception June 1st to year end
+•  Using the Year Loss Table, I have calculated the expected loss, AP and EP for the following two catastrophe excess of loss layers: <br>
+1.  Option 1 (O1): $100m xs $140m, single shot, United States windstorm, inception June 1st to year end <br>
+2.   Option 2 (O2): $70m xs $95m, single shot, Florida windstorm only, inception June 1st to year end <br>
