@@ -1,4 +1,4 @@
-# Cat-XL-Layer-Analysis-YLT-Pipeline - Hypothetical information
+# Cat-XL-Layer-Analysis-YLT-Pipeline - Hypothetical Data
 Cat XL Layer Analysis — Catastrophe reinsurance pricing using a 49,999-year stochastic Year Loss Table. Calculates Expected Loss, Attachment &amp; Exhaustion Probability, and regional EL split for two US windstorm excess-of-loss layers via Excel and Python.
 Section 1 — Problem statement: given a 49,999-year YLT, price two cat XL layers and produce EL, AP, EP, and regional EL splits.
 
